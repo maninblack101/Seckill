@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:29:52 +0800] "GET / HTTP/1.1" 200 57 http-bio-8686-exec-1 242
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:30:53 +0800] "GET /seckill/list HTTP/1.1" 200 4496 http-bio-8686-exec-4 6721
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:00 +0800] "GET /seckill/1000/detail HTTP/1.1" 200 3349 http-bio-8686-exec-6 467
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:00 +0800] "GET /resource/script/seckill.js HTTP/1.1" 200 6271 http-bio-8686-exec-7 34
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:01 +0800] "GET /seckill/time/now HTTP/1.1" 200 61 http-bio-8686-exec-8 156
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:12 +0800] "GET /seckill/1000/detail HTTP/1.1" 200 3349 http-bio-8686-exec-9 18
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:12 +0800] "GET /seckill/time/now HTTP/1.1" 200 61 http-bio-8686-exec-10 5
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:20 +0800] "GET /seckill/1003/detail HTTP/1.1" 200 3346 http-bio-8686-exec-10 13
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:20 +0800] "GET /seckill/time/now HTTP/1.1" 200 61 http-bio-8686-exec-10 5
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:24 +0800] "GET /seckill/1002/detail HTTP/1.1" 200 3354 http-bio-8686-exec-10 15
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:31:24 +0800] "GET /seckill/time/now HTTP/1.1" 200 61 http-bio-8686-exec-10 4
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:39:58 +0800] "GET /seckill/1000/detail HTTP/1.1" 200 3349 http-bio-8686-exec-6 19
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:39:58 +0800] "GET /seckill/time/now HTTP/1.1" 200 61 http-bio-8686-exec-6 6
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:40:11 +0800] "GET /seckill/1003/detail HTTP/1.1" 200 3346 http-bio-8686-exec-6 16
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:22:40:11 +0800] "GET /seckill/time/now HTTP/1.1" 200 61 http-bio-8686-exec-6 7

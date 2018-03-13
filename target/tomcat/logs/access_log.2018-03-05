@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:12:16:10 +0800] "GET /seckill/index.jsp HTTP/1.1" 404 985 http-bio-8686-exec-1 85
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:12:16:16 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8686-exec-3 5632
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:12:16:16 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8686-exec-2 5749
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:12:17:55 +0800] "GET /seckill/seckill/index.jsp HTTP/1.1" 404 1001 http-bio-8686-exec-6 2
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:12:18:13 +0800] "GET /seckill/list HTTP/1.1" 500 24356 http-bio-8686-exec-7 1326
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:29:14 +0800] "GET / HTTP/1.1" 200 57 http-bio-8686-exec-1 3219
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:29:20 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8686-exec-3 6281
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:29:37 +0800] "GET /seckill HTTP/1.1" 404 965 http-bio-8686-exec-5 8
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:31:29 +0800] "GET /seckill/list HTTP/1.1" 500 24356 http-bio-8686-exec-3 1255
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:39:41 +0800] "GET /seckill/list HTTP/1.1" 500 8361 http-bio-8686-exec-1 1840
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:41:45 +0800] "GET /seckill/list HTTP/1.1" 500 24356 http-bio-8686-exec-1 8268
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:43:08 +0800] "GET /seckill/list HTTP/1.1" 500 24356 http-bio-8686-exec-2 1014
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:43:37 +0800] "GET /seckill/list HTTP/1.1" 500 24356 http-bio-8686-exec-1 7545
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:56:48 +0800] "GET /seckill/list HTTP/1.1" 500 24356 http-bio-8686-exec-1 7187
