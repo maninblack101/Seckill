@@ -4,7 +4,7 @@ import cn.maninblack.entity.SuccessKilled;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * Created by codingBoy on 16/11/27.
+ * 
  */
 public interface SuccessKilledDao {
 

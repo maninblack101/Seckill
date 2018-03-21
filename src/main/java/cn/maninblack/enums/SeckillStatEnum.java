@@ -1,7 +1,7 @@
 package cn.maninblack.enums;
 
 /**
- * Created by codingBoy on 16/11/28.
+ * 
  */
 public enum SeckillStatEnum {
 

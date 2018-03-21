@@ -3,7 +3,7 @@ package cn.maninblack.entity;
 import java.util.Date;
 
 /**
- * Created by codingBoy on 16/11/24.
+ * 
  */
 public class Seckill
 {

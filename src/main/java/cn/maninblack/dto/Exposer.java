@@ -3,7 +3,7 @@ package cn.maninblack.dto;
 import java.util.Date;
 
 /**
- * Created by codingBoy on 16/11/27.
+ * 
  * 暴露秒杀地址(接口)DTO
  */
 public class Exposer {

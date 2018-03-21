@@ -8,7 +8,7 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 
 /**
- * Created by codingBoy on 17/2/17.
+ * 
  */
 public class RedisDao {
     private final JedisPool jedisPool;
